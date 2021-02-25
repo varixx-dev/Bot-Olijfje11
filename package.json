@@ -1,0 +1,25 @@
+{
+  "name": "olijfje11",
+  "version": "1.0.0",
+  "description": "Bot Olijfje 11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "Sundeep de Jongh",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varixx-dev/Bot-Olijfje11.git"
+  },
+  "bugs": {
+    "url": "https://github.com/varixx-dev/Bot-Olijfje11/issues"
+  },
+  "homepage": "https://github.com/varixx-dev/Bot-Olijfje11#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "nodemon": "^2.0.7"
+  }
+}
